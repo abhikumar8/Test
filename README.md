@@ -1,2 +1,3 @@
 # Test
-Test Repository
+Test Repository for git command demonstration
+
